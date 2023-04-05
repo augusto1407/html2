@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha página web</title>
+</head>
+<body>
+    <h1>COLEGIO CEAK </h1>
+    <p>Secretaria da Educação.</p>
+</body>
+</html>
+<h1>localização colegio</h1>
+	<img src="https://www.galeriadaarquitetura.com.br/Img/projeto/702x415/4649/colegio-renascenca152.jpg" alt="">
+	<p>.</p>
+<body>
+<html>
+<head>
+	<title>Minha primeira página HTML com link</title>
+<head>
+<body>
+	<h1>No CEAK você encontra um ensino de qualidade, trazendo aos nossos alunos o interesse e experiências encantadoras.
+    </h1>
+	<p>Visite a <a href="https://www.educacao.pr.gov.br/iniciar/">educação</a> para obter mais informações.</p>
+<body>
+    <p>localização <a href</p>
+<html>
